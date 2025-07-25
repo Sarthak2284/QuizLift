@@ -62,22 +62,25 @@ A MongoDB Atlas account or a local MongoDB instance.
 Installation
 Clone the repository
 
-Bash
-
+```bash
 git clone https://github.com/Sarthak2284/QuizLift.git
 cd QuizLift
+```
+
 Install Backend Dependencies
 
-Bash
-
+```bash
 cd server
 npm install
+```
+
 Install Frontend Dependencies
 
-Bash
-
+```bash
 cd ../client
 npm install
+```
+
 Set Up Environment Variables
 In the /server directory, create a .env file and add the following variables.
 
@@ -92,7 +95,10 @@ From the /server directory:
 
 Bash
 
+```bash
 npm start
+```
+
 The server should now be running on http://localhost:5000.
 
 Run the Frontend Development Server
@@ -100,7 +106,10 @@ From the /client directory:
 
 Bash
 
+```bash
 npm run dev
+```
+
 The app should now be accessible at http://localhost:5173 (or another port specified by Vite).
 
 🛣️ Roadmap
