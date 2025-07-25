@@ -1,4 +1,5 @@
 QuizLift 🚀
+![QuizLift Banner](https://github.com/Sarthak2284/QuizLift/blob/main/.github/assets/banner.png?raw=true)
 An intelligent quiz generation platform powered by AI. Create engaging, multiple-choice quizzes on any topic in seconds.
 
 📖 About The Project
